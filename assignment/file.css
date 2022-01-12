@@ -1,0 +1,13 @@
+header{
+  background-color: purple; color: tan;
+  text-align: center;
+}
+main{
+  background-color: lightgrey;
+}
+body{
+  background-image: url(record.png);
+}
+main{
+  padding: 1em;
+}
